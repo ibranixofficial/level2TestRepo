@@ -26,7 +26,7 @@ const Sidebar = () => {
     if (location.pathname == "/" || location.pathname=="/registration" ) {
         return null;
     }
-
+//  this is for git tracking expermit
     return (
         <aside className="h-screen overflow-hidden w-72 flex flex-col bg-white border-r border-slate-100 px-5 py-6">
 

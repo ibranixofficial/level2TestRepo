@@ -11,6 +11,7 @@ const App = () => {
   return (
     <div className='flex flex-row'>
       <BrowserRouter>
+      {/* this is only for testing. */}
       <Sidebar/>
       <Routes>
         <Route path='/' element={<Login/>} />

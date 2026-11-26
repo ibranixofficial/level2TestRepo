@@ -4,7 +4,7 @@ const students = [
     id: 1,
     name: "Ahmed Khan",
     email: "ahmed.khan01@example.com",
-    phoneNo: "03001234501",
+    phoneNo: "030012345015678",
     address: "Bannu, Khyber Pakhtunkhwa",
     image: "https://i.pravatar.cc/300?img=11"
   },
